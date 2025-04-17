@@ -29,3 +29,45 @@ Made sure data is consistent and clean with respect to data type, data format an
 
 making Interactive Dashboard [Supply Chain Dashboard](https://public.tableau.com/shared/WC3K6FWXX?:display_count=n&:origin=viz_share_link)
 ## Project Insight
+![Image](https://github.com/user-attachments/assets/d7e52d0b-5295-418b-8494-fb94ba2f0785)
+
+## Final Conclusion:
+1. Supplier disruption
+   
+In short term
+the company should focus on suppliers in the likely growing customer group in Asia, especially those that provide emerging product departments such as technology.
+
+In the long term
+the next main customer group is likely to be from North America, the company needs to take advantage of the time to redesign the supplier network to recalling old best selling departments
+
+2. Inventory management
+
+    a.Forecasting demand:
+- Analyzing historical sales data
+- Tracking market trends
+- Employing predictive analytics
+  
+   b.Setting up controlling indicators for each product
+ - Sales velocity
+- Desired safety stock levels
+  
+3. Delay shipment
+   
+The  markets near the warehouse (North America, LATAM, Western Europe,...)
+- Redesigned transportation route
+  
+The  markets far away from the warehouse (Asia Pacific, SEA,...)
+
+- Establishing a warehouse in a strategic logistics hub like Singapore in Asia
+
+
+
+
+
+
+
+
+
+
+
+
