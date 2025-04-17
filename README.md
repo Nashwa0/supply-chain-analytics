@@ -1,3 +1,3 @@
-# supply-chain-analytics
-##Project description
-This data analysis project pinpoints inefficiencies in supply chain warehouse and shipping through data-driven insights. By analyzing relevant datasets and KPIs, we aim to identify root causes of issues like delays and high costs. The project will deliver actionable recommendations to optimize these critical operational areas for improved efficiency.
+# supply chain analytics
+## Project description
+This data analysis project leverages data-driven insights to pinpoint and address inefficiencies within supply chain warehouse and shipping operations. By analyzing relevant datasets and Key Performance Indicators (KPIs), we aim to identify the root causes of issues such as delays and high costs. The project will deliver actionable recommendations for optimizing these critical areas and improving overall supply chain efficiency.
